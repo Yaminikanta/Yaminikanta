@@ -15,11 +15,14 @@ Curious, consistent, and detail-oriented — I love solving real-world problems 
 ### 🧠 Currently Learning
 
 📊 Advanced Power BI & Data Modeling
+
 🐍 Python EDA & Visualization
+
 🧮 SQL Joins, Subqueries & Optimization
+
 ⚛️ React Components & API Integration
 
-###💻 Tech Stack
+### 💻 Tech Stack
 
 🔢 Data Analytics
 <p align="left"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> </p>
@@ -38,8 +41,11 @@ Curious, consistent, and detail-oriented — I love solving real-world problems 
 #### 📊 Data Analysis Projects
 
 ✔ Data Cleaning & Preprocessing
+
 ✔ Exploratory Data Analysis (EDA)
+
 ✔ Power BI Dashboards
+
 ✔ Real-world business insights
 
 Tech: Excel, SQL, Python, Pandas, Power BI
@@ -47,7 +53,9 @@ Tech: Excel, SQL, Python, Pandas, Power BI
 #### 🌦 Weather App (HTML, CSS, JS → React Upgrade)
 
 ✔ Shows real-time weather
+
 ✔ API integration
+
 ✔ Fully responsive
 
 Tech: HTML, CSS, JavaScript, React.js
@@ -61,11 +69,8 @@ I worked on the Frontend Development, designing and developing the complete user
 ✔ My Contributions (Frontend Role)
 
 Developed UI for menu display, order selection, and billing view
-
 Designed responsive layouts for smooth navigation
-
 Improved user experience, button flow, and screen clarity
-
 Coordinated with backend and database team members for API/data flow
 
 🛠️ Technology Used (Entire Project)
