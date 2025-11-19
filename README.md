@@ -74,6 +74,7 @@ Tech: HTML, CSS, JavaScript, React.js
 ###  🍽 Restaurant Management System (Group Project)
 
 A collaborative project focused on digitalizing in-restaurant ordering and billing to improve customer experience and reduce wait time.
+
 I worked on the Frontend Development, designing and developing the complete user interface for customers to browse menus, place orders, and view billing details.
 
 ✔ My Contributions (Frontend Role)
