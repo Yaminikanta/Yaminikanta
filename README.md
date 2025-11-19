@@ -12,6 +12,11 @@ Along with analytics, I also work as a Frontend Developer, creating responsive a
 
 Curious, consistent, and detail-oriented — I love solving real-world problems using a mix of data analysis, programming, and UI design.
 
+🎓 MCA (2023–2025) – GIET University, Gunupur (CGPA: 7.29)
+🎓 B.Sc ITM (2019–2023) – Bhadrak Auto College, Bhadrak (CGPA: 8.51)
+
+---
+
 ### 🧠 Currently Learning
 
 📊 Advanced Power BI & Data Modeling
@@ -21,6 +26,8 @@ Curious, consistent, and detail-oriented — I love solving real-world problems 
 🧮 SQL Joins, Subqueries & Optimization
 
 ⚛️ React Components & API Integration
+
+---
 
 ### 💻 Tech Stack
 
@@ -35,6 +42,9 @@ Curious, consistent, and detail-oriented — I love solving real-world problems 
 
 🛠 Tools & Platforms
 <p align="left"> <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> </p>
+
+
+---
 
 ### 📂 Projects
 
@@ -87,6 +97,8 @@ Tools: NetBeans IDE · Git
 🎨 Tech I Worked With (Frontend Role)
 
 HTML · CSS · JavaScript
+
+---
 
 ![Yaminikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaminikanta&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yaminikanta&theme=radical)  
