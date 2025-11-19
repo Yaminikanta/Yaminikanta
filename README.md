@@ -1,10 +1,10 @@
-👋 Hi, I'm Yaminikanta Prusty
+# Hi 👋, I'm Yaminikanta Prusty  
 
 🌟 Data Analyst | Frontend Developer
 
-📍 Odisha, India
+📍 Hyderabad, India
 
-💫 About Me
+## 💫 About Me
 
 I am an aspiring Data Analyst skilled in Excel, SQL, Python (Pandas, NumPy), and Power BI, focused on converting raw data into meaningful insights and visually compelling dashboards. I enjoy analyzing datasets, finding trends, and presenting insights that support better business decisions.
 
@@ -12,24 +12,30 @@ Along with analytics, I also work as a Frontend Developer, creating responsive a
 
 Curious, consistent, and detail-oriented — I love solving real-world problems using a mix of data analysis, programming, and UI design.
 
-🧠 Currently Learning
+### 🧠 Currently Learning
 
 📊 Advanced Power BI & Data Modeling
 🐍 Python EDA & Visualization
 🧮 SQL Joins, Subqueries & Optimization
 ⚛️ React Components & API Integration
 
-💻 Tech Stack
+###💻 Tech Stack
+
 🔢 Data Analytics
 <p align="left"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> </p>
+
 🎨 Frontend Development
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> </p>
+
 🧩 Programming Languages
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </p>
+
 🛠 Tools & Platforms
 <p align="left"> <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> </p>
-📂 Projects
-📊 Data Analysis Projects
+
+### 📂 Projects
+
+#### 📊 Data Analysis Projects
 
 ✔ Data Cleaning & Preprocessing
 ✔ Exploratory Data Analysis (EDA)
@@ -38,7 +44,7 @@ Curious, consistent, and detail-oriented — I love solving real-world problems 
 
 Tech: Excel, SQL, Python, Pandas, Power BI
 
-🌦 Weather App (HTML, CSS, JS → React Upgrade)
+#### 🌦 Weather App (HTML, CSS, JS → React Upgrade)
 
 ✔ Shows real-time weather
 ✔ API integration
@@ -46,7 +52,7 @@ Tech: Excel, SQL, Python, Pandas, Power BI
 
 Tech: HTML, CSS, JavaScript, React.js
 
-🍽 Restaurant Management System (Group Project)
+#### 🍽 Restaurant Management System (Group Project)
 
 A collaborative project focused on digitalizing in-restaurant ordering and billing to improve customer experience and reduce wait time.
 
