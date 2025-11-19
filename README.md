@@ -13,6 +13,7 @@ Along with analytics, I also work as a Frontend Developer, creating responsive a
 Curious, consistent, and detail-oriented — I love solving real-world problems using a mix of data analysis, programming, and UI design.
 
 🎓 MCA (2023–2025) – GIET University, Gunupur (CGPA: 7.29)
+
 🎓 B.Sc ITM (2019–2023) – Bhadrak Auto College, Bhadrak (CGPA: 8.51)
 
 ---
