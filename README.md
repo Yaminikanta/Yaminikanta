@@ -88,6 +88,16 @@ Tools: NetBeans IDE · Git
 
 HTML · CSS · JavaScript
 
+![Yaminikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaminikanta&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Yaminikanta&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaminikanta&layout=compact&theme=radical)
+
+<div align="right">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaminikanta&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
 
 🔗 Connect with Me
 <p align="left"> <a href="mailto:yaminikanta143@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/yaminikanta-prusty"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Yaminikanta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
