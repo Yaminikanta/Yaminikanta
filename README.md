@@ -1,6 +1,7 @@
 👋 Hi, I'm Yaminikanta Prusty
 
 🌟 Data Analyst | Frontend Developer
+
 📍 Odisha, India
 
 💫 About Me
