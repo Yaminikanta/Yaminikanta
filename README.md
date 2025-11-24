@@ -104,7 +104,9 @@ HTML · CSS · JavaScript
 
 ### 📊 GitHub Stats  
 
-![Yaminikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaminikanta&show_icons=true&theme=radical)  
+<div align="center">
+  ![Yaminikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaminikanta&show_icons=true&theme=radical)  
+</div>
 
 ### 🔥 GitHub Streak
 
@@ -122,7 +124,7 @@ HTML · CSS · JavaScript
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaminikanta&layout=compact&theme=radical)
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaminikanta&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
