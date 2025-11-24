@@ -102,22 +102,14 @@ HTML · CSS · JavaScript
 
 ---
 
-### 📊 GitHub Stats  
-
-![Yaminikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaminikanta&show_icons=true&theme=radical)  
+### 📊 GitHub Stats
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Yaminikanta&show_icons=true&theme=radical" height="200"/> </div>  
 
 ### 🔥 GitHub Streak
-
-<div align="left">
-
-  <!-- Main streak -->
-  <img src="https://streak-stats.demolab.com?user=Yaminikanta&theme=radical" height="200"/>
-
-</div>
+<div align="left"> <img src="https://streak-stats.demolab.com?user=Yaminikanta&theme=radical" height="200"/> </div>
   
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaminikanta&layout=compact&theme=radical)
+### 🗂️ Most Used Languages
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaminikanta&layout=compact&theme=radical" height="200"/> </div>
 
 <div align="center">
   
