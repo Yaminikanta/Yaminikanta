@@ -104,9 +104,7 @@ HTML · CSS · JavaScript
 
 ### 📊 GitHub Stats  
 
-<div align="center">
-  ![Yaminikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaminikanta&show_icons=true&theme=radical)  
-</div>
+![Yaminikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaminikanta&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak
 
@@ -115,8 +113,6 @@ HTML · CSS · JavaScript
   <!-- Main streak -->
   <img src="https://streak-stats.demolab.com?user=Yaminikanta&theme=radical" height="200"/>
 
-  <!-- Backup streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaminikanta&theme=radical" height="200"/>
 
 </div>
   
