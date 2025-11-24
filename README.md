@@ -113,9 +113,6 @@ HTML · CSS · JavaScript
   <!-- Main streak -->
   <img src="https://streak-stats.demolab.com?user=Yaminikanta&theme=radical" height="200"/>
 
-  <!-- Backup streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaminikanta&theme=radical" height="200"/>
-
 </div>
   
 
