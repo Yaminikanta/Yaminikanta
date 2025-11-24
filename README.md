@@ -108,7 +108,7 @@ HTML · CSS · JavaScript
 
 ### 🔥 GitHub Streak
 
-<div align="center">
+<div align="left">
 
   <!-- Main streak -->
   <img src="https://streak-stats.demolab.com?user=Yaminikanta&theme=radical" height="200"/>
